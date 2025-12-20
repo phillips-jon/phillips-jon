@@ -20,6 +20,9 @@ Outside of work, I build and ship projects across SaaS, content, and tooling.
 - https://autochangelog.com  
   Automatically generates clean, public changelogs from pull requests and commits.
 
+- https://preflight.sh  
+  A CLI that catches common misconfigurations and deployment issues before they go live.
+
 - https://sidehustling.com  
   Writing and tools to help people turn side projects into real businesses.
 
@@ -28,9 +31,6 @@ Outside of work, I build and ship projects across SaaS, content, and tooling.
 
 - https://thedailypreset.com  
   A Lightroom preset every weekday, built for real photos and real workflows.
-
-- https://preflight.sh  
-  A CLI that catches common misconfigurations and deployment issues before they go live.
 
 ### How I build
 I don’t get attached to stacks, but I do care about shipping, maintainability, and not creating problems for future me.
