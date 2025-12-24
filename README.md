@@ -23,9 +23,6 @@ Outside of work, I build and ship projects across SaaS, content, and tooling.
 - https://preflight.sh  
   A CLI that catches common misconfigurations and deployment issues before they go live.
 
-- https://sidehustling.com  
-  Writing and tools to help people turn side projects into real businesses.
-
 - https://dailyphototips.com  
   Short, practical photography tips delivered daily.
 
