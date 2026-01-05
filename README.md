@@ -2,20 +2,8 @@ Hey, I’m Jon.
 
 I’ve been building on the web for a long time, mostly product work where design and code overlap.
 
-### Day job
-I work on monetization, infrastructure, and developer-facing tools at:
-
-- https://buysellads.com  
-  Advertising and monetization tools for modern publishers.
-
-- https://fullres.com  
-  Privacy-first analytics and optimization for ad-supported sites.
-
-- https://ready.dev  
-  Tools and infrastructure to help developers ship and run production apps.
-
 ### Projects
-Outside of work, I build and ship projects across SaaS, content, and tooling.
+I build and ship projects across SaaS, content, and tooling.
 
 - https://autochangelog.com  
   Automatically generates clean, public changelogs from pull requests and commits.
@@ -28,6 +16,8 @@ Outside of work, I build and ship projects across SaaS, content, and tooling.
 
 - https://thedailypreset.com  
   A Lightroom preset every weekday, built for real photos and real workflows.
+
+Previously, I worked on monetization, infrastructure, and developer-facing tools at https://buysellads.com/ and https://fullres.com for 15 years.
 
 ### How I build
 I don’t get attached to stacks, but I do care about shipping, maintainability, and not creating problems for future me.
