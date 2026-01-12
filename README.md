@@ -11,8 +11,11 @@ I build and ship projects across SaaS, content, and tooling.
 - https://preflight.sh  
   A CLI that catches common misconfigurations and deployment issues before they go live.
 
+- https://distributionkit.com  
+  Launch smarter. 135+ platforms and directories to get your product in front of the right people.
+
 - https://dailyphototips.com  
-  Short, practical photography tips delivered daily.
+  Short, practical, and actionable photography tips delivered to your inbox daily.
 
 - https://thedailypreset.com  
   A Lightroom preset every weekday, built for real photos and real workflows.
