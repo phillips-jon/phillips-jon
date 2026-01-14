@@ -11,6 +11,9 @@ I build and ship projects across SaaS, content, and tooling.
 - https://preflight.sh  
   A CLI that catches common misconfigurations and deployment issues before they go live.
 
+- https://emailgrowthguide.com
+  The playbook for launching, growing, and monetizing your email newsletter.
+
 - https://distributionkit.com  
   Launch smarter. 135+ platforms and directories to get your product in front of the right people.
 
