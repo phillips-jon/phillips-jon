@@ -29,7 +29,7 @@ I build and ship projects across SaaS, content, and tooling.
 - https://thedailypreset.com  
   One Lightroom preset delivered every weekday, built for real photos and real workflows.
 
-Previously, I worked on monetization, infrastructure, and developer-facing tools at https://buysellads.com/ and https://fullres.com for 15 years.
+Previously, I worked on monetization, infrastructure, and developer-facing tools at https://buysellads.com/, https://fullres.com, and https://ready.dev/ for 15 years.
 
 ### How I build
 I don’t get attached to stacks, but I do care about shipping, maintainability, and not creating problems for future me.
