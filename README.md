@@ -41,7 +41,7 @@ The tech is a tool, the product is the point.
 ### Writing
 I believe strongly in email and building audiences you can actually reach.
 
-I write about building products, logic, UX, distributiuon, and long-term thinking at: https://joncphillips.com
+I write about building products, logic, UX, distribution, and long-term thinking at: https://joncphillips.com
 
 I’m also on socials:  
 - https://x.com/joncphillips
