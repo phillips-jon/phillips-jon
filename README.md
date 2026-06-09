@@ -5,29 +5,32 @@ I’ve been building on the web for a long time, mostly product work where desig
 ### Projects
 I build and ship projects across SaaS, content, and tooling.
 
-- https://hprfcl.com  
-  Easily create Lightroom and Photoshop ACR presets and LUTs from natural language and reference images.
+- https://activebuilders.dev  
+  A private community for people who ship. If you're shipping work (or trying to), come hang out.
 
 - https://dailytips.dev  
   A 5-minute daily read on decisions, logic, distribution, and the thinking that turns code into products.
 
-- https://autochangelog.com  
-  Automatically generates clean, public changelogs from pull requests, code diffs, and commits.
-
 - https://preflight.sh  
   A CLI that catches common misconfigurations and deployment issues before they go live.
-
+  
 - https://emailgrowthguide.com  
   The playbook for launching, growing, and monetizing your email newsletter.
+  
+- https://hprfcl.com  
+  Easily create Lightroom and Photoshop ACR presets and LUTs from natural language and reference images.
 
-- https://distributionkit.com  
-  Launch smarter. 140+ platforms and directories to get your product in front of the right people.
+- https://autochangelog.com  
+  Automatically generates clean, public changelogs from pull requests, code diffs, and commits.
 
 - https://dailyphototips.com  
   Short, practical, and actionable photography tips delivered to your inbox daily.
 
 - https://thedailypreset.com  
   One Lightroom preset delivered every weekday, built for real photos and real workflows.
+
+- https://distributionkit.com  
+  Launch smarter. 145+ platforms and directories to get your product in front of the right people.
 
 - https://www.bestaithings.com  
   Best AI things for everything. Discover and compare the most powerful AI tools to enhance your workflow.
