@@ -1,6 +1,6 @@
 Hey, I’m Jon.
 
-I’ve been building on the web for a long time, mostly product work where design and code overlap. I'm currently a senior web developer at https://rdelgroup.com/ and a serial builder of side projects and open source software
+I’ve been building on the web for a long time, mostly product work where design and code overlap. I'm currently a senior web developer at https://rdelgroup.com/ and https://craftandcrew.ca/ and a serial builder of side projects and open source software
 
 ### Projects
 I build and ship projects across SaaS, content, and tooling.
