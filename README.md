@@ -41,7 +41,7 @@ I build and ship projects across SaaS, content, and tooling.
 - https://www.bestaithings.com  
   Best AI things for everything. Discover and compare the most powerful AI tools to enhance your workflow.
 
-Previously, I worked on monetization, infrastructure, and developer-facing tools at https://buysellads.com/, https://fullres.com, and https://ready.dev/ for 15 years.
+Previously, I worked on monetization, infrastructure, and developer-facing tools at https://buysellads.com/ for 15 years.
 
 ### How I build
 I don’t get attached to stacks, but I do care about shipping, maintainability, and not creating problems for future me.
