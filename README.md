@@ -8,6 +8,9 @@ I build and ship projects across SaaS, content, and tooling.
 - https://activebuilders.dev  
   A private community for people who ship. If you're shipping work (or trying to), come hang out.
 
+- https://scratchpad.sh  
+  Your next great idea needs somewhere to land. Notes, files, and voice memos in one app, with an AI assistant to organize it all.
+
 - https://runlight.sh  
   Privacy-friendly open-source analytics for people who’d rather own their data than rent someone else’s dashboard.
 
