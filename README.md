@@ -17,7 +17,7 @@ I build and ship projects across SaaS, content, and tooling.
 - https://cronwatch.dev  
   An open-source library that watches your scheduled jobs and alerts you when one is late, fails, or never runs.
 
-- https://sendscore.ai 
+- https://sendscore.ai  
   Check a newsletter email before it goes out: SPF, DKIM, DMARC, unsubscribe, links, and what changed since the last issue.
 
 - https://dailytips.dev  
