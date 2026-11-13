@@ -32,9 +32,6 @@ I build and ship projects across SaaS, content, and tooling.
 - https://hprfcl.com  
   Easily create Lightroom and Photoshop ACR presets and LUTs from natural language and reference images.
 
-- https://autochangelog.com  
-  Automatically generates clean, public changelogs from pull requests, code diffs, and commits.
-
 - https://dailyphototips.com  
   Short, practical, and actionable photography tips delivered to your inbox daily.
 
