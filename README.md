@@ -7,13 +7,13 @@ I build and ship projects across SaaS, content, and tooling.
 
 - https://activebuilders.dev  
   A private community for people who ship. If you're shipping work (or trying to), come hang out.
-
-- https://scratchpad.sh  
-  Your next great idea needs somewhere to land. Notes, files, and voice memos in one app, with an AI assistant to organize it all.
-
+  
 - https://runlight.sh  
   Privacy-friendly open-source analytics for people who’d rather own their data than rent someone else’s dashboard.
-
+  
+- https://preflight.sh  
+  An open-source CLI tool that catches common misconfigurations and deployment issues before they go live.
+  
 - https://cronwatch.dev  
   An open-source library that watches your scheduled jobs and alerts you when one is late, fails, or never runs.
 
@@ -23,9 +23,6 @@ I build and ship projects across SaaS, content, and tooling.
 - https://dailytips.dev  
   A 5-minute daily read on decisions, logic, distribution, and the thinking that turns code into products.
 
-- https://preflight.sh  
-  An open-source CLI tool that catches common misconfigurations and deployment issues before they go live.
-  
 - https://emailgrowthguide.com  
   The playbook for launching, growing, and monetizing your email newsletter.
   
