@@ -22,9 +22,6 @@ I build and ship projects across SaaS, content, and tooling.
 
 - https://dailytips.dev  
   A 5-minute daily read on decisions, logic, distribution, and the thinking that turns code into products.
-
-- https://emailgrowthguide.com  
-  The playbook for launching, growing, and monetizing your email newsletter.
   
 - https://hprfcl.com  
   Easily create Lightroom and Photoshop ACR presets and LUTs from natural language and reference images.
@@ -34,9 +31,6 @@ I build and ship projects across SaaS, content, and tooling.
 
 - https://thedailypreset.com  
   One Lightroom preset delivered every weekday, built for real photos and real workflows.
-
-- https://distributionkit.com  
-  Launch smarter. 145+ platforms and directories to get your product in front of the right people.
 
 - https://www.bestaithings.com  
   Best AI things for everything. Discover and compare the most powerful AI tools to enhance your workflow.
